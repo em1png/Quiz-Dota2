@@ -17,8 +17,8 @@ Project is created with:
 To run this application locally, follow these steps:
 
 ```
-$ git clone https://github.com/em1png/quiz-dota2.git
-$ cd quiz-dota2
+$ git clone https://github.com/em1png/Quiz-Dota2
+$ cd Quiz-Dota2
 $ npm install
 $ npm run dev
 ```
