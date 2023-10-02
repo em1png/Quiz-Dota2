@@ -3,7 +3,7 @@
 ## Description
 This is a small web application built with React, Vite, and Tailwind CSS. It is a quiz game focused on Dota 2, featuring 7 questions that test your knowledge of Dota 2.
 
-> [GitHub Pages](https://em1png.github.io/quiz-dota2).
+> [GitHub Pages](https://em1png.github.io/Quiz-Dota2/).
 
 ## Technologies
 Project is created with:
